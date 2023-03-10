@@ -1,9 +1,30 @@
 ### Hi there! Call us Luna or Amber😄
 _________________________________________________________________________________________________________________________________________________________________________
 ### Project Portfolio
-We designed and developed the TestLab360 website!
+We were part of the team that developed the TestLab360 website!
 - https://www.testlab360.com.au/
 
+### Current Employment
+- TestLab360, Junior Developer
+
+### Education
+- Current, Queensland University of Technology (Bachelor of Computer Science)
+- Previous, Saint Peter Claver College (Grades 10-12)
+
+### Languages/Frameworks known
+- Javascript
+- Typescript
+- Python
+- Tailwind.css
+- MUI
+- React Native
+- React Native Paper
+- Node.JS
+
+### Languages/Frameworks learning
+- C#
+- F#
+- .NET
 _________________________________________________________________________________________________________________________________________________________________________
 ### Github Stats
 
