@@ -8,7 +8,7 @@ We were part of the team that developed the TestLab360 website!
 - TestLab360, Junior Developer
 
 ### Education
-- Current, Queensland University of Technology (Bachelor of Computer Science)
+- Current, Queensland University of Technology (Bachelor of Information Technology, majoring in Computer Science)
 - Previous, Saint Peter Claver College (Grades 10-12)
 
 ### Languages/Frameworks known
