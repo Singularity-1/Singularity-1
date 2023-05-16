@@ -25,6 +25,9 @@ We were part of the team that developed the TestLab360 website!
 - C#
 - F#
 - .NET
+
+### Languages/Frameworks Researching
+- ELM
 _________________________________________________________________________________________________________________________________________________________________________
 ### Github Stats
 
