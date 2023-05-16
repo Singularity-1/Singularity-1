@@ -1,4 +1,4 @@
-### Hi there! Call us Luna or Amber😄
+### Hi there! Call us Luna 😄
 _________________________________________________________________________________________________________________________________________________________________________
 ### Project Portfolio
 We were part of the team that developed the TestLab360 website!
