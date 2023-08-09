@@ -1,4 +1,4 @@
-### Hi there! Call us Luna 😄
+### Hi there! Call us Menagerie <3
 _________________________________________________________________________________________________________________________________________________________________________
 ### Project Portfolio
 We were part of the team that developed the TestLab360 website!
