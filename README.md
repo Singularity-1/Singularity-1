@@ -8,10 +8,10 @@ We were part of the team that developed the TestLab360 website!
 - TestLab360, Junior Developer
 
 ### Education
-- Current, Queensland University of Technology (Bachelor of Information Technology, majoring in Computer Science)
-- Previous, Saint Peter Claver College (Grades 10-12)
+- Completed, Queensland University of Technology (Bachelor of Information Technology, majoring in Computer Science with a minor in Mobile and IoT Systems)
+- Completed, Saint Peter Claver College (Grades 10-12)
 
-### Languages/Frameworks known
+### Languages/Frameworks/Tools we are known
 - Javascript
 - Typescript
 - Python
@@ -20,14 +20,20 @@ We were part of the team that developed the TestLab360 website!
 - React Native
 - React Native Paper
 - Node.JS
-
-### Languages/Frameworks learning
+- Linux
+- Expo
+- Git
+- Azure DevOps
+- Docker (Manjaro, Debian, Raspbian, Ubuntu)
+  
+### Languages/Frameworks/Tools we are learning
 - C#
 - F#
 - .NET
 
-### Languages/Frameworks Researching
+### Languages/Frameworks/Tools we are interested in
 - ELM
+
 _________________________________________________________________________________________________________________________________________________________________________
 ### Github Stats
 
