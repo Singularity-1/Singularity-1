@@ -11,7 +11,7 @@ We were part of the team that developed the TestLab360 website!
 - Completed, Queensland University of Technology (Bachelor of Information Technology, majoring in Computer Science with a minor in Mobile and IoT Systems)
 - Completed, Saint Peter Claver College (Grades 10-12)
 
-### Languages/Frameworks/Tools we are known
+### Languages/Frameworks/Tools we know
 - Javascript
 - Typescript
 - Python
@@ -26,13 +26,12 @@ We were part of the team that developed the TestLab360 website!
 - Azure DevOps
 - Docker (Manjaro, Debian, Raspbian, Ubuntu)
   
-### Languages/Frameworks/Tools we are learning
-- C#
-- F#
-- .NET
+### Languages/Frameworks/Tools we are currently learning
 
 ### Languages/Frameworks/Tools we are interested in
 - ELM
+- Prisma
+- Terraform
 
 _________________________________________________________________________________________________________________________________________________________________________
 ### Github Stats
