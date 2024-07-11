@@ -29,12 +29,17 @@ We were part of the team that developed the TestLab360 website!
 - Docker (Manjaro, Debian, Raspbian, Ubuntu)
   
 ### Languages/Frameworks/Tools we are currently learning
+- Zustand
+- Redux
 
 ### Languages/Frameworks/Tools we are interested in
 - ELM
 - Prisma
 - Terraform
 
+### Design Tools
+- Figma
+- Marvel
 _________________________________________________________________________________________________________________________________________________________________________
 ### Github Stats
 
