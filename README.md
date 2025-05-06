@@ -2,11 +2,11 @@
 _________________________________________________________________________________________________________________________________________________________________________
 ### Project Portfolio
 - https://www.figma.com/@themenagerie
+  
+### Prior Employment
+- Tablabs, Software Developer
 
-We were part of the team that developed the TestLab360 website!
-- https://www.testlab360.com.au/
-
-### Current Employment
+### Prior Employment
 - TestLab360, Junior Developer
 
 ### Education
@@ -27,10 +27,12 @@ We were part of the team that developed the TestLab360 website!
 - Git
 - Azure DevOps
 - Docker (Manjaro, Debian, Raspbian, Ubuntu)
+- Redux
+- C#
+- Angular
   
 ### Languages/Frameworks/Tools we are currently learning
 - Zustand
-- Redux
 
 ### Languages/Frameworks/Tools we are interested in
 - ELM
